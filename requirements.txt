@@ -1,0 +1,5 @@
+1.Python
+2.Speech Recognition 
+3.PIL
+4.pyttsx3
+5.PyAudio 
